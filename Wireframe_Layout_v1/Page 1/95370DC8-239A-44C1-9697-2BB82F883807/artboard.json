@@ -1,0 +1,203 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7D255DD1-7B36-4B25-86BC-FA6F880C3BF4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "95370DC8-239A-44C1-9697-2BB82F883807",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04B4540B-4395-4E86-A634-980BBC750E9D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "73C1B305-A8D1-49B7-9718-8CC1766E22F2",
+    "height": 1681,
+    "width": 1440,
+    "x": -202,
+    "y": 3720
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B27DD71A-F575-4365-A66E-FA3F53A24E7F",
+    "guides": [
+      41,
+      1401,
+      251,
+      1192
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "14592DC6-16E2-422A-9245-9C344F74D9E7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "79A61CD2-778F-40F1-8BA7-118F37030484"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "003E47C6-9F13-4C21-BB1E-6C352B088F81"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7533C261-E79C-40DD-8F10-7F4669BDE0AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "85916F36-FCB6-4C3B-B3A6-529D6D548376"
+    },
+    {
+      "class": "text",
+      "id": "0A38DF3A-5488-4508-8216-305CC4DF470F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "50FA00E3-1EB1-4AE7-A1D2-7E3BBBB3AD23"
+    },
+    {
+      "class": "text",
+      "id": "509E909D-DE55-4FCF-93C8-220892506F7C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8DD6F425-D3BD-4829-A740-50B82E9ECCA2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D15D02E5-FD4D-4B88-A03D-1492FBD58868"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E8E3D7A-F09C-4959-A026-83FFEB986FB8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3F04FAA6-A113-4D23-8038-81B99DCDB1CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4BB38E58-2A29-42B6-A14D-FC7EEB00B901"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67D7E872-AAF9-47A2-8770-A4251253EDA6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "49E4027E-4886-4F9E-AF38-14B8C593D0FF"
+    },
+    {
+      "class": "text",
+      "id": "2995B29B-CCE1-44F1-A53D-BFC5B37B5E94"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA5EF118-B6E3-497D-89D5-0B548026322F"
+    },
+    {
+      "class": "text",
+      "id": "AC8986FB-B2B7-4857-9E86-0364B46B147E"
+    },
+    {
+      "class": "text",
+      "id": "C22C2F7C-8783-4A81-BCD6-6B5148AC284D"
+    },
+    {
+      "class": "text",
+      "id": "E5EAE24F-12A5-461D-B321-6AF4E8F60049"
+    },
+    {
+      "class": "text",
+      "id": "0A6AB582-7505-4D02-98A8-2994D1FDD384"
+    },
+    {
+      "class": "text",
+      "id": "D1BF6D19-1064-4B54-ACC5-FEAFB7447217"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "00CBD3BF-3FC5-4E9C-8965-D5560522B47F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "211D6F13-0A7C-465F-BE19-EBD6659585BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "08623703-D2DD-43D1-BB5D-FBE0741AFD5C"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "E4042EEE-D313-4FDA-B0A0-4AD92F9A5DD7",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "News",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "21C7C017-C9A1-4328-A455-63BF3A4CAC8E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AF6462DF-64AD-4A27-87D9-6E23B696FC8E",
+    "guides": [
+      148,
+      697
+    ]
+  }
+}

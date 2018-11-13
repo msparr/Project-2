@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 1681,
     "width": 1440,
     "x": -202,
     "y": -141
@@ -33,7 +33,9 @@
     "base": 0,
     "guides": [
       41,
-      1401
+      1401,
+      251,
+      1192
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -44,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -107,60 +109,20 @@
       "id": "2D9EE1A8-D506-4EF0-BB66-E57B0A16DBF2"
     },
     {
-      "class": "shapeGroup",
-      "id": "6EEB81F5-511C-4192-85DD-34799FCD0236"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E08C0984-9846-4932-B099-B35E7D0A0C54"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D4B3FC56-15B2-41D8-909C-6EDD078636EF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0A0091BA-147A-4837-B5F7-F283065BBCFC"
-    },
-    {
-      "class": "text",
-      "id": "BB6965EB-A838-4454-AAE2-01935C9BA32F"
+      "class": "symbolInstance",
+      "id": "859FD489-03C3-441F-9C78-792D2EB2DA1D"
     },
     {
       "class": "symbolInstance",
-      "id": "4D2D8127-3B42-4FE5-9641-129DF0C9D231"
+      "id": "034CB36E-9FC6-4DC2-BEFE-76EA8AB1DC1C"
     },
     {
-      "class": "symbolInstance",
-      "id": "B55B929E-8CCF-4B28-B412-74B60410E208"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9714CC70-F167-4D03-A305-B7A22B8793E8"
+      "class": "shapeGroup",
+      "id": "F37AEC13-AF7E-4A8C-9044-66FE11EA4ECB"
     },
     {
       "class": "text",
-      "id": "A200DDD5-9B88-41D4-80A9-B89FFC06214A"
-    },
-    {
-      "class": "text",
-      "id": "9132D513-616F-4B2C-8F44-40DB4942C506"
-    },
-    {
-      "class": "text",
-      "id": "834DF3E0-A4C0-4383-B6D2-1E1520CAD2A6"
-    },
-    {
-      "class": "text",
-      "id": "6AA0142B-EA70-4CAB-93D8-B8D7F2E7358D"
-    },
-    {
-      "class": "text",
-      "id": "384641A0-01E9-4152-9A9A-F045861D2BE1"
-    },
-    {
-      "class": "text",
-      "id": "ADC15154-CB30-47A8-BFB4-681C15EF6734"
+      "id": "25F84B79-0408-4492-985D-B8C5406BEEBB"
     }
   ],
   "layout": {
@@ -173,13 +135,13 @@
     "gutterWidth": 20,
     "guttersOutside": true,
     "horizontalOffset": 240,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "Desktop HD",
-  "nameIsFixed": false,
+  "name": "Home",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
@@ -203,7 +165,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      148
+      148,
+      697
     ]
   }
 }

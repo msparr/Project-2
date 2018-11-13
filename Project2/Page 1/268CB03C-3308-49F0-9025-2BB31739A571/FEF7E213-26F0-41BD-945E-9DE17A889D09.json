@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "FEF7E213-26F0-41BD-945E-9DE17A889D09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86124A89-383F-4DC0-ACD5-30B146192A78",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA9806F5-4EA2-4A94-BED8-6EC6884356B2",
+    "height": 299,
+    "width": 460,
+    "x": 730,
+    "y": 337
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "organism_links",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9AA20484-0CF2-4374-A219-4101F2E3B107",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "748ADC0A-74C4-4F79-BD5B-B3566B630E4B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,107 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "PoiretOne-Regular",
+              "size": 13
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "baseWritingDirection": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 2402,
+        "location": 0
+      }
+    ],
+    "string": "The Bachelor of Fine Arts Degree Program in graphic design is intended for the student who wishes to pursue a professional career in the applied arts. The program is organized into a four-year sequence of study that provides a solid understanding of graphic design, art and art history. BFA candidates share a close working relationship with the two department's faculty who are active professional artists and designers. Studio work is complemented by an academic education with strong liberal arts components in the belief that artists should be grounded in a broad base of knowledge.\n\nThe Department of Engineering & Design and the Department of Art offer an intercollegiate Visual Communication Design Program founded on four major concerns: developing the highest levels of individual creative performance and professional education; providing courses for all students which develop ability in both technical visual communications as well as important core skills in the area of fine art; giving students a greater cultural and historical understanding and aesthetic appreciation of the function of design in the arts and in the world around them; and functioning as dual centers of emphasis and resource for the visual arts, visual communication and technology in the cultural activities of both the university community and the community at large.\n\nBoth departments are committed to working together to give students access to current technologies in the area of graphic design, as well as experience in developing the necessary visual skills provided by studio art areas such as drawing, painting and sculpture.\n\nThe program ends with a three quarter senior year intensive studio experience for the preparation of portfolios for job placement or graduate school application. This includes midterm faculty review of student work, quarterly outside professional review and a final exhibition as the completion of the student portfolio of work.\n\nPrior to declaring the BFA major, students must apply to the program by submitting a portfolio and academic transcripts. Application is recommended at the end of the sophomore year to help ensure that appropriate junior year courses are selected. Students need not be in the BFA to take TECH or ART classes, with the exception of the senior year three quarter class TECH/ART 470. This course requires previous acceptance into the BFA degree program.\n\n"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "do_objectID": "CD241AA8-9386-4A49-92CC-F491B716F3AB",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 976,
+    "width": 262,
+    "x": 43,
+    "y": 516
+  },
+  "glyphBounds": "{{0, 3}, {261, 957}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "The Bachelor of Fine",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "PoiretOne-Regular",
+            "size": 13
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "baseWritingDirection": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}

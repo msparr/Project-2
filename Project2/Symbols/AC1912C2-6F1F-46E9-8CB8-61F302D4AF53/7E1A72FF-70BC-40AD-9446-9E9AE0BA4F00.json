@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "7E1A72FF-70BC-40AD-9446-9E9AE0BA4F00",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5913392E-8475-4E86-8344-1D00D5F11710",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3DA773A3-ABB1-4563-88B5-3828DDD802E0",
+    "height": 47,
+    "width": 47,
+    "x": 1267,
+    "y": 18
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom_icon copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F22897E0-1CC5-4374-8CD9-C4C4C0B7A926",
+      "overrideName": "000434CB-61D9-4D9A-98D9-0525FD2A48F6_symbolID",
+      "value": "22FC7603-C58B-4F8B-B0A9-2FD9BE527872"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA12FF1C-6204-4154-8CE5-BB71114DA129",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "95D9B0C9-F565-4B35-91AB-F64756F21D6C",
+  "verticalSpacing": 0
+}

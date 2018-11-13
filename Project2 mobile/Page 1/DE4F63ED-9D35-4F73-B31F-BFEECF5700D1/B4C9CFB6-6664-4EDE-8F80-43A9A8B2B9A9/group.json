@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "B4C9CFB6-6664-4EDE-8F80-43A9A8B2B9A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 225,
+    "width": 320,
+    "x": -1,
+    "y": 483
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "74829AC4-C44A-4386-98A6-938BADABE2F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9B132B3-E1F3-4841-A95B-164D7AD4006F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6509D68C-0C67-482A-847B-4CE5AAAF551E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3C6C16C-D0E4-4434-8E5E-D655C4D4209E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D32570C-141D-40CA-B1A9-424975D1FC01"
+    }
+  ],
+  "name": "organism_calendar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

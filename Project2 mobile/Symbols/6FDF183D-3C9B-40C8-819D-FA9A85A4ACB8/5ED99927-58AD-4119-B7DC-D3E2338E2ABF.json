@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "5ED99927-58AD-4119-B7DC-D3E2338E2ABF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3366B290-E960-44FE-81CC-F81BCDD9FF7A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6818F54B-AAA9-4356-98FF-9FF6A91F14BF",
+    "height": 37,
+    "width": 320,
+    "x": 0,
+    "y": 243
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule_event copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB685EC4-B137-4C4E-9B43-ADF18BA7268C",
+      "overrideName": "3B21F469-B913-460D-B27E-E9DFA859CF75/834DF3E0-A4C0-4383-B6D2-1E1520CAD2A6_stringValue",
+      "value": "30"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EFCCC974-A899-44C3-AA78-FB6F77132C72",
+      "overrideName": "6AA0142B-EA70-4CAB-93D8-B8D7F2E7358D_stringValue",
+      "value": "Happy birthday Miguel"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "45F10B13-C289-4531-ACA6-4F637E264D7D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3B84EC89-284D-49B4-A538-850D3270A118",
+  "verticalSpacing": 0
+}

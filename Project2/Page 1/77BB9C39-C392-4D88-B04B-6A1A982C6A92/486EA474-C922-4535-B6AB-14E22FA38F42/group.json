@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "486EA474-C922-4535-B6AB-14E22FA38F42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 409,
+    "width": 940,
+    "x": 250,
+    "y": 246
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C0BD72BD-E765-46F8-9AF2-4395D8BFB4BF"
+    },
+    {
+      "class": "bitmap",
+      "id": "05F702D6-07D1-4E4D-980A-01B7FEE6DFD5"
+    },
+    {
+      "class": "bitmap",
+      "id": "4C12A611-DC12-435B-B21B-46F8BA9A2B6D"
+    },
+    {
+      "class": "bitmap",
+      "id": "0DDCC410-046C-404E-8EE3-EDCC87E1D647"
+    },
+    {
+      "class": "bitmap",
+      "id": "757B0315-B9B9-46AE-83CE-E232CDCAD5F9"
+    }
+  ],
+  "name": "Rectangle 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/ac9a6ff89dce101de809f7555f82f6cdf2b1fab2.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

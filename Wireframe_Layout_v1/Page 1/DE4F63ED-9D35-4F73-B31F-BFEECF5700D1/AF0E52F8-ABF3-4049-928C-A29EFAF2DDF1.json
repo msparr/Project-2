@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "AF0E52F8-ABF3-4049-928C-A29EFAF2DDF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "942DC52C-CFF9-4F1F-B21F-E8542E54C718",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3645B6B8-4CF5-41B3-BE57-116A8351B4C6",
+    "height": 257,
+    "width": 342,
+    "x": -43,
+    "y": -60
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom_logo",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9CA0BB30-5492-4551-86E1-AD64AEE3A4A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AAF00D7F-261E-44F5-8C5E-BCD364D7BCA3",
+  "verticalSpacing": 0
+}

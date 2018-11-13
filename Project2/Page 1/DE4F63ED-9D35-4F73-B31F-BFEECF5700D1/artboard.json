@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CFDBD19C-9925-4F05-A28A-EEB0B5D1B524",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "DE4F63ED-9D35-4F73-B31F-BFEECF5700D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "778D2066-C201-40C7-968D-56B0C0285F0D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD3C06FC-3FAF-44FE-99AF-D2089BD7E69B",
+    "height": 1681,
+    "width": 1440,
+    "x": 1317,
+    "y": 2134
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D61D19BC-F7BA-4828-8A7B-54BAAA66D070",
+    "guides": [
+      41,
+      1401,
+      251,
+      1192
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4ACBB33F-82DB-464D-893A-2B0CD786B9CB"
+    },
+    {
+      "class": "group",
+      "id": "9DC182BC-08C7-48B4-9596-6FA76F6F8312"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "419FF905-CF04-4ABE-98EA-BE6219084B64"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26D92107-9D78-44D0-9FAB-A0A30BEF5D65"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "871D6097-F76F-4848-BD45-23FF98077D2A"
+    },
+    {
+      "class": "group",
+      "id": "0ED2693D-9408-46F0-B00E-A5B982F40563"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22719679-48E8-4014-B6A5-2BA1931EF5CA"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "58ACE19B-C0C9-41B3-B7B5-09A32135EDDE",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Calendar",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D430F594-D27F-47E1-AA8C-139AA40B752D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DDC7C76B-F321-41DE-B5EC-8E701BB3196E",
+    "guides": [
+      148,
+      697
+    ]
+  }
+}

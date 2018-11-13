@@ -1,0 +1,195 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3,
+  "do_objectID": "42AEF139-8A09-4658-BC03-D6DE3B1CE0E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 380,
+    "width": 630,
+    "x": 3306,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E0917334-D4E6-4389-AE00-C40801C5CD3D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0FD499BB-9D44-42B1-8A01-77873DE2D237"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BFC50C3E-8BD3-4FF7-8FEF-D8989B6CDB98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C96EDF7-D43B-4FBE-B449-B478BB5D967F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4557B8CD-6DB7-4A7C-A4CC-D733233BA694"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "635041BA-4815-4556-ACA0-62F147A597C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "200EAB93-087A-4BED-A7D7-567BBEA82E11"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4172C3A9-7936-437E-94C6-F3AC4911E0F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "886F091D-9339-476E-BC60-4F69E7CD0D93"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4569B303-C599-491E-985F-E95F0D4E78BA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E0748F89-D8E0-4AA1-85B9-C64890095517"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72E1522F-4656-42D1-A958-81D5672A1B38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A39ADAAC-A870-4093-A1E1-50274F0DCDDA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F427AC60-ABEE-43D7-B366-4677C522F2E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99D7377C-BEE5-48AF-A760-42A711A372C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9E37326-E810-486D-BDF6-09799000E21B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A448C224-FF35-4D8E-8D45-4EEE67B51C4C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19CB7EDF-5C81-4DFF-A91A-F35592920A10"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61B65370-880E-44E7-8659-E64C1C5936E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "468BB622-565B-4DAD-9F9C-8F96261BD89E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6AF1760F-F96E-47BB-A83A-6DF873C43995"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "204B1A20-8F30-4B71-B6AA-A4EADBE0E6C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64BCB9E7-7090-4CF6-98CC-E82A9A508563"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D757E23-A6D2-487D-B368-146551CA03E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D00DC162-1F41-447E-BED0-575B7590A7D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44F654F0-DCF6-4DF7-927D-FBAF87638FE8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6398ABB5-912B-40A3-91E3-5BB11C2B13DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7F75C8F-C941-4E08-A01D-254ADD381B58"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E6E94A0-B8BB-4621-A998-8A6C7851B9BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE8A76B5-87E9-4796-8C34-15C5CCE92C5D"
+    },
+    {
+      "class": "text",
+      "id": "90949040-069F-45E6-9421-BC9E9E2547B1"
+    }
+  ],
+  "name": "Organism_NovemberCalendar",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FA8A7F2C-4B45-43E9-BD17-39AB0B6F7320",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

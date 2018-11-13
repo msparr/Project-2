@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "B22BEE30-ED3C-4285-8E4C-BB773554E01F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DFCB0BB5-29E7-4239-AF30-E3441F9036A4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F05A7F09-1422-40AA-898A-0C4505F3E49E",
+    "height": 37,
+    "width": 395,
+    "x": 250,
+    "y": 403
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule_textbox copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "55D7C2C1-286B-4195-9384-D496578B5473",
+      "overrideName": "4CB87431-E5C2-476D-8358-04B0891AD56C_stringValue",
+      "value": "Phone Number"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D1AB2ECD-36B5-459D-B70D-2E336B91075C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "64510D8C-5AD7-4295-9806-2CFC2368514E",
+  "verticalSpacing": 0
+}

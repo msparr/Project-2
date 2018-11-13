@@ -1,0 +1,47 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "513801E3-B483-4CB3-AF2E-3A81A67D429D",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "51.3",
+    "build": 57544,
+    "version": 105
+  },
+  "pages": [
+    "Page 1",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.getty1": {
+      "ids": "[{\"id\":\"836276708\",\"layerId\":\"4E471084-0466-4E6A-87D4-ADAE1827F5A1\"},{\"id\":\"851879984\",\"layerId\":\"C0BD72BD-E765-46F8-9AF2-4395D8BFB4BF\"},{\"id\":\"659265947\",\"layerId\":\"61AD8086-8D9E-40E6-B0C7-17B717C05FE7\"},{\"id\":\"873850126\",\"layerId\":\"1B769DE1-D6D6-4993-8948-E7E4B7B0898A\"},{\"id\":\"657415476\",\"layerId\":\"196EBF52-7FB6-495B-A384-3822FD0D802D\"},{\"id\":\"944081712\",\"layerId\":\"196EBF52-7FB6-495B-A384-3822FD0D802D\"},{\"id\":\"883769588\",\"layerId\":\"486EA474-C922-4535-B6AB-14E22FA38F42\"},{\"id\":\"475157933\",\"layerId\":\"486EA474-C922-4535-B6AB-14E22FA38F42\"},{\"id\":\"967913536\",\"layerId\":\"486EA474-C922-4535-B6AB-14E22FA38F42\"},{\"id\":\"877781716\",\"layerId\":\"00CBD3BF-3FC5-4E9C-8965-D5560522B47F\"},{\"id\":\"200129529-001\",\"layerId\":\"211D6F13-0A7C-465F-BE19-EBD6659585BD\"},{\"id\":\"142009824\",\"layerId\":\"08623703-D2DD-43D1-BB5D-FBE0741AFD5C\"},{\"id\":\"969679654\",\"layerId\":\"3B6E3BDD-9D45-47EB-9150-8AAE5C6FD277\"},{\"id\":\"836276708\",\"layerId\":\"DBE08D87-ACF3-4F4C-86F4-5713C5F4AEC8\"},{\"id\":\"951663582\",\"layerId\":\"DBE08D87-ACF3-4F4C-86F4-5713C5F4AEC8\"},{\"id\":\"968312736\",\"layerId\":\"DBE08D87-ACF3-4F4C-86F4-5713C5F4AEC8\"},{\"id\":\"158317592\",\"layerId\":\"DBE08D87-ACF3-4F4C-86F4-5713C5F4AEC8\"},{\"id\":\"880911840\",\"layerId\":\"DBE08D87-ACF3-4F4C-86F4-5713C5F4AEC8\"},{\"id\":\"677682649\",\"layerId\":\"DBE08D87-ACF3-4F4C-86F4-5713C5F4AEC8\"},{\"id\":\"918722544\",\"layerId\":\"DBE08D87-ACF3-4F4C-86F4-5713C5F4AEC8\"},{\"id\":\"102495220\",\"layerId\":\"DBE08D87-ACF3-4F4C-86F4-5713C5F4AEC8\"}]"
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

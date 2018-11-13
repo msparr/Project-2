@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "DBE08D87-ACF3-4F4C-86F4-5713C5F4AEC8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 146,
+    "width": 320,
+    "x": 0,
+    "y": 220
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3B6E3BDD-9D45-47EB-9150-8AAE5C6FD277"
+    },
+    {
+      "class": "bitmap",
+      "id": "8C2C7667-02BF-4CAD-B8BB-59E41D7A2A3A"
+    },
+    {
+      "class": "bitmap",
+      "id": "72BC3B63-79B1-4C3E-89B3-ADA06E2214C2"
+    },
+    {
+      "class": "bitmap",
+      "id": "8C431D8B-E061-48DE-8768-A89D2469B6FF"
+    },
+    {
+      "class": "bitmap",
+      "id": "499E89CE-86D2-4F2D-9A61-A62E63CA36D6"
+    },
+    {
+      "class": "bitmap",
+      "id": "5F6B79C8-6F53-483F-BFD2-BDDAC8727AAA"
+    },
+    {
+      "class": "bitmap",
+      "id": "01262873-D3D1-49EB-AF0E-1827DE769955"
+    },
+    {
+      "class": "bitmap",
+      "id": "1968EDBA-5D44-4DD4-BA52-0ED610F5292E"
+    },
+    {
+      "class": "bitmap",
+      "id": "CAC2B891-F250-4A9C-999C-C4DCEDC3A533"
+    },
+    {
+      "class": "bitmap",
+      "id": "963AA9EA-2573-4198-858C-7BBE02EE467E"
+    }
+  ],
+  "name": "Rectangle",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/ac9a6ff89dce101de809f7555f82f6cdf2b1fab2.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
