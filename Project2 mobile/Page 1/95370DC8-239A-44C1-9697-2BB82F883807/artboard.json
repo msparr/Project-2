@@ -24,13 +24,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "73C1B305-A8D1-49B7-9718-8CC1766E22F2",
-    "height": 956,
+    "height": 976,
     "width": 320,
     "x": 2105,
     "y": -141
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,6 +52,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "586ED3B7-4F9F-4C42-AD65-7FC87E5E92E4"
+    },
     {
       "class": "shapeGroup",
       "id": "8DD6F425-D3BD-4829-A740-50B82E9ECCA2"

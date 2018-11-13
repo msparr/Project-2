@@ -24,7 +24,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9394D392-952D-4946-8837-D80E8C10129B",
-    "height": 1416,
+    "height": 1436,
     "width": 320,
     "x": 970,
     "y": -141
@@ -52,6 +52,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4F32F07D-124A-4EC1-86F3-29D1BFCC85E8"
+    },
     {
       "class": "symbolInstance",
       "id": "1553F3BE-AEE4-4769-97FD-4420E95DD7B1"

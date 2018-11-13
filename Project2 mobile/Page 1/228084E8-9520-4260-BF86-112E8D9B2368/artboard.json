@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1369,
+    "height": 1389,
     "width": 320,
     "x": -202,
     "y": -141
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,6 +48,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D7657297-638B-422C-9BB9-6A8E1412CA7E"
+    },
     {
       "class": "group",
       "id": "54C1953E-4B01-48AE-B6F5-B47B680B659D"

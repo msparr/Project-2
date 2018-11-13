@@ -24,7 +24,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FE0A8C3E-01C4-4B5D-AB38-ABFA28CBD2E2",
-    "height": 1926,
+    "height": 1946,
     "width": 320,
     "x": 1356,
     "y": -141
@@ -52,6 +52,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F6FA2C22-6EAB-4C64-AAFA-3FF32BFAF1CD"
+    },
     {
       "class": "text",
       "id": "CD241AA8-9386-4A49-92CC-F491B716F3AB"
